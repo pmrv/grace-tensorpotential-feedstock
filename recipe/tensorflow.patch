@@ -1,0 +1,22 @@
+From 1f38cda8c6429b2766551434ab3f9ca8b4881b80 Mon Sep 17 00:00:00 2001
+From: Jan Janssen <jan-janssen@users.noreply.github.com>
+Date: Mon, 3 Mar 2025 16:10:32 +0100
+Subject: [PATCH] Update pyproject.toml
+
+---
+ pyproject.toml | 2 +-
+ 1 file changed, 1 insertions(+), 1 deletions(-)
+
+diff --git a/pyproject.toml b/pyproject.toml
+index 1934b89..4a5e2e7 100644
+--- a/pyproject.toml
++++ b/pyproject.toml
+@@ -24,7 +24,7 @@ classifiers = [
+ ]
+ dependencies = [
+     "scipy",
+-    "tensorflow<2.17",
++    "tensorflow",
+     "matscipy",
+     "numpy",
+     "sympy",
