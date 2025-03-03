@@ -27,7 +27,7 @@ requirements:
     - scipy
     - tensorflow
     - matscipy
-    - numpy
+    - numpy >=1.22.4
     - sympy
     - pandas <3.0.0
     - ase
