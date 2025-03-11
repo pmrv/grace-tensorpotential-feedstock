@@ -16,7 +16,7 @@ index de4ef6e..8b36395 100644
  ]
  dependencies = [
 -    "tensorflow<2.17",
-+    "tensorflow=<2.17",
++    "tensorflow<=2.17",
      "tf_keras",
      "scipy",
      "matscipy",
