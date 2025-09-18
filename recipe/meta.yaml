@@ -45,8 +45,8 @@ test:
 about:
   home: https://github.com/ICAMS/grace-tensorpotential
   summary: Graph Atomic Cluster Expansion (GRACE)
-  license: GPL-2.0-or-later
-  license_file: LICENSE.md
+  license: Academic Software License
+  license_file: ASL.txt
 
 extra:
   recipe-maintainers:
